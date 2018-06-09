@@ -1,0 +1,19 @@
+************HOW TO RUN***********
+
+1. Unzip and place the RandomTopicGen in C:\
+2. Run application
+3. Press generate buttons to begin generating
+
+
+
+
+***********HOW TO UPDATE DATA*******
+
+1. Navigate too C:\RandomTopicGen\data files
+2. Open file in notepad
+3. Add, Remove & Modify any data required
+4. When adding new elements, you must use "," in between each data element as a seperator.
+
+
+Thanks,
+CreativeHermit.
